@@ -19,7 +19,7 @@ Passionate about the world of development, I specialized in web development, par
 
 
 # Who I am ?
-```
+```JavaScript
 class WhoIam extends Developer
 {
     constructor()
