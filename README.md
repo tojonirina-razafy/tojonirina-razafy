@@ -1,4 +1,4 @@
-<img width="40%"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAlIYSo5yPVeXmPLk2MizwcFJsikvr96L8Q&usqp=CAU" />
+<img width="40%"  src="https://sveltekit-template.vercel.app/_app/immutable/assets/svelte-welcome.c18bcf5a.webp" />
 <h1 align="center">Hi 👋there, welcome to my digital domain</h1>
 
 [![E-mail](https://img.shields.io/badge/tojorazafy6@gmail.com-mail-red?style=flat-square&logo=gmail)](mailto:tojorazafy6@gmail.com)
