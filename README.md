@@ -1,7 +1,6 @@
 <img width="100%"  src="https://sveltekit-template.vercel.app/_app/immutable/assets/svelte-welcome.c18bcf5a.webp" />
 
-
-<h1 align="center">Hi 👋there, welcome to my digital domain</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=2000&pause=1000&color=02E8FF&background=8EB45900&vCenter=true&width=500&lines=Hi+%F0%9F%91%8Bthere%2C+welcome+to+my+digital+domain;Developer+Fullstask+and+designer;%E2%98%8E+Contact+me+for+collaboration+)](https://git.io/typing-svg)
 
 [![E-mail](https://img.shields.io/badge/tojorazafy6@gmail.com-mail-red?style=flat-square&logo=gmail)](mailto:tojorazafy6@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-ryanstuh-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61563504704871)
