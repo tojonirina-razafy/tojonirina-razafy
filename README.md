@@ -1,4 +1,4 @@
-<img width="100%"  src="https://sveltekit-template.vercel.app/_app/immutable/assets/svelte-welcome.c18bcf5a.webp" />
+<img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c3aTd2ajZmYTg3eXhiY25ueHplcjFieDd2eHNmODM0aDFwZGRvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CIJBWbfHuv9UAo4je7/giphy.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=2000&pause=1000&color=02E8FF&background=8EB45900&vCenter=true&width=500&lines=Hi+%F0%9F%91%8Bthere%2C+welcome+to+my+digital+domain;Developer+Fullstask+and+designer;%E2%98%8E+Contact+me+for+collaboration+)](https://git.io/typing-svg)
 
