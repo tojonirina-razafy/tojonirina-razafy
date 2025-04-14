@@ -4,6 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-ryanstuh-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61563504704871)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tojorazafy-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/tojo-razafy-788136233/))
 
+##### A good developer is not just someone who codes well, but someone who understands what to code, why, and for whom.
 # Who I am ?
 ```JavaScript
 class WhoIam extends Developer
