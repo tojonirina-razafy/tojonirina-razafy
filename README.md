@@ -11,7 +11,7 @@ class WhoIam extends Developer {
   constructor() {
     super();
     this.name = 'Tojonirina Riantsoa';
-    this.currentWork = { company: 'Hopes' };
+    this.currentWork = { company: 'Eray digital' };
   }
 
   getAbout(): string {
